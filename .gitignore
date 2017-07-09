@@ -1,0 +1,5 @@
+# Temporary project files
+*.zip
+
+# IPython Notebook
+.ipynb_checkpoints
